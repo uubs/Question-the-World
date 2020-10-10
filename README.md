@@ -1,6 +1,8 @@
 # Question-the-World
 
-1. ping不通目标地址，但是可以通过ssh连接到目标主机
+## 1
+ping不通目标地址，但是可以通过ssh连接到目标主机
+
 ping,
 ```
 huang@huang-X450JB:~$ ping 45.141.137.39
